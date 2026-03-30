@@ -59,8 +59,6 @@ My background spans penetration testing, red teaming, compliance auditing, and t
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <div align="center">
 
 **Languages**
