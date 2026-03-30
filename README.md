@@ -59,6 +59,8 @@ My background spans penetration testing, red teaming, compliance auditing, and t
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <div align="center">
 
 **Languages**
@@ -66,11 +68,34 @@ My background spans penetration testing, red teaming, compliance auditing, and t
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Offensive Security Tooling**
+
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**Blue Team & Detection**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-1E90FF?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-4B275F?style=for-the-badge)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-00B4D8?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-1E90FF?style=for-the-badge)
 
 **Infrastructure & Cloud**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -81,11 +106,13 @@ My background spans penetration testing, red teaming, compliance auditing, and t
 ![DISA STIG](https://img.shields.io/badge/DISA-STIG-0F0F0F?style=for-the-badge)
 ![BSI](https://img.shields.io/badge/BSI-Baseline_Protection-0F0F0F?style=for-the-badge)
 ![EU AI Act](https://img.shields.io/badge/EU-AI_Act-003399?style=for-the-badge&logo=europeanunion&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-0F0F0F?style=for-the-badge)
 
 **AI & Automation**
 
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
