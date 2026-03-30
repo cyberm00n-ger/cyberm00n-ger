@@ -4,7 +4,7 @@
 
 **IT Security Engineer & AI Engineer**
 
-[![Email](https://img.shields.io/badge/Email-kontakt%40sebastianhaas.eu-0F0F0F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kontakt@sebastianhaas.eu)
+[![Email](https://img.shields.io/badge/Email-hello%40sebastianhaas.dev-0F0F0F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@sebastianhaas.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastianhaaseu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianhaaseu)
 [![GitHub](https://img.shields.io/badge/GitHub-cyberm00n--ger-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyberm00n-ger)
 
