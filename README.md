@@ -20,15 +20,6 @@ My background spans penetration testing, red teaming, compliance auditing, and t
 
 ---
 
-### 🔧 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **VAT** – Vulnerability Audit Tool | Offline-capable vulnerability scanner & license compliance auditor | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **AIPT** – AI Pentest Toolkit | Offensive AI security framework for testing AI systems and APIs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
-
 ### 🛡️ Certifications
 
 <div align="center">
